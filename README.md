@@ -1,7 +1,7 @@
 # sales_analysis_sql_project
 
 ## Project Overview:
-									This project showcases SQL skills and techniques commonly applied by data analysts to explore, clean, and analyze retail sales data. It involves building a retail sales database, performing exploratory data analysis (EDA), and using SQL queries to answer key business questions and uncover actionable insights.
+This project showcases SQL skills and techniques commonly applied by data analysts to explore, clean, and analyze retail sales data. It involves building a retail sales database, performing exploratory data analysis (EDA), and using SQL queries to answer key business questions and uncover actionable insights.
 
 ## Objectives
 **1. Set up a retail sales database:** Create and populate a retail sales database with the provided sales data.
